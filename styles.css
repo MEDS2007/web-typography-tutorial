@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+  color: #000;
+  background: #eee;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+main {
+  margin: 0 auto;
+  width: 72%;
+  background: #fff;
+}
+
+/* basic styles for level 1 and 2 headings and paragraphs */
+
+h1 {
+  padding: 0 10px 1em; /* top, right-left, bottom */
+}
+
+h2 {
+  padding: 0 10px 1em;
+}
+
+p {
+  padding: 0 10px 1em;
+}
